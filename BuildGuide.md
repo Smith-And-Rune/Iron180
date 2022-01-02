@@ -9,7 +9,7 @@ While this guide is meant to give Iron180 owners a comprehensive overview on how
 
 * [Parts check and PCB](#parts-check-and-pcb)
 * [Dissasembly](#dissasembly)
-* [Gaskets and Daughterboard](#gaskets-and-daughterboard)
+* [Bumpons, Daughterboard, and Gaskets](#bumpons-daughterboard-and-gaskets)
 * [Stabilizers and Layout](#stabilizers-and-layout)
 * [Switches](#switches)
 * [Soldering](#soldering)
@@ -24,7 +24,7 @@ You can also refer to the following photo as a parts reference thoughout the bui
 
 ### Screws
 
-There are multiple options when is comes to screws for the back of your Iron. There are duplicate sets for color preferences as well as short and long screws. The short screws are the standard option which will not be visible when tightened, whereas the longer option allow the screws to sit flush with the bottom of the board giving it a unique asthetic appeal.
+There are multiple options when is comes to screws for the back of your Iron. There are duplicate sets for color preferences as well as short and long screws. The short screws are the standard option which will not be visible when tightened, whereas the longer option allow the screws to sit flush with the bottom of the board giving it a unique asthetic appeal. You will always use four shorts screws for the front of the board.
 
 Note: If you decide to use the longer screws, you will need to be used with the included spacers before tightening. Failure to do so, might result in damage to your board. 
 
@@ -32,7 +32,7 @@ Note: If you decide to use the longer screws, you will need to be used with the 
 
 With the advances in modern technology it is very tempting/easy to skip this step, but we high recommend that you take the time to test your PCB. Spending a few hours building your board only to find out after that something is wrong and you need to dissasemble everything is going to be a bad time. Unless you have the proper equipment to desolder, it will take you a lot longer to dissasemble than reassemble.
 
-To test your board you will need a pair of metal tweezers and a USB-C cable. Ensure that your PCB is in an environments to minimize electrostatic discharge before proceeding and connect your PCB via the USB cable to a PC. While connected, please open a keyboard testing website (a few links below) and take your tweezer and touch the pair of pads corresponding to a key and check to see that the circuit completes and that it registers on the site. [Example video](https://www.youtube.com/watch?v=0Jp1X0hrAeM)
+To test your board you will need a pair of metal tweezers, the included PCB (connected to the daughterboard) and a USB-C cable. Ensure that your PCB is in an environments to minimize electrostatic discharge before proceeding and connect your PCB via the USB cable to a PC. While connected, please open a keyboard testing website (a few links below) and take your tweezer and touch the pair of pads corresponding to a key and check to see that the circuit completes and that it registers on the site. [Example video](https://www.youtube.com/watch?v=0Jp1X0hrAeM)
 
 Keyboard testing websites
 
@@ -49,7 +49,7 @@ Remove the board from the case and use the included cloth to lay the board face 
 
 image
 
-## Gaskets, Bumpons, and Daughterboard
+## Bumpons, Daughterboard, and Gaskets
 
 Since we are going to move halves of the boards around induvidually, it is now a good time to attache the bumpons. Remove a bumpon from the adhesive then to bottom of the base using one of the four circular matching indents as a guide. Repeat fo the other three bumpons.
 
@@ -69,13 +69,46 @@ When appling the gasket, to not pull or add tension to the gasket during applica
 
 image
 
-Proceed to attach all twelve gaskets to the top and bottom of the board and set the top board to the side until the end of the build.
+Proceed to attach all twelve gaskets to the top and bottom of the board and set the top and bottom of the board to the side until the end of the build.
 
 ## Stabilizers and Layout
 
+Now is the time to plan the layout of your 180. Please use the [interest check](https://geekhack.org/index.php?topic=105245.0) to see what options are avaiable. There are lots of guides/variations available on how to modify/attach/lubricate spacebars, but we will be using the electrical tape mod (variation of the band-aid mod)for this guide.
+
+Using a roll of electrical tape, cut out tiny rectangles so that they fit inbetween the stabalizer mounting points on the top of the PCB. After they have been all attached, spread a thin layer of dielectric grease to each of the rectangles. Proceed to attach all of your lubed stabilizers.
+
+Videos on lubing stabalizers:
+
+[Lubing stabalizers](https://www.youtube.com/watch?v=usNx1_d0HbQ)
+[Band-aid Mod](https://www.youtube.com/watch?v=cD5Zj-ZgMLA)
+
+
+Fun fact: Lbaron prefers a full backspace board, while vox prefers a split backspace.
+
 ## Switches
+
+Now that your stabalizers are in place, it is time to insert your switches into the plate. Align the plate on top of your stabalizer and grab one switch align it over one of the corners on the plate. Using low/moderate force, push the switch directly down so that it steats into the plate fully while making sure the pins of the switch come out the other side of the PCB. Continue to add a switch the plate around each corner of the PCB.
+
+image
+
+Once all four corners are inserts, add switches to the bottom row as well as the full/split backspace area. After that is done, it is a good time to doublecheck that you chose the right mounting points for your switches to avoid having to desolder/resolder. Take the coressponding keys from the intened keyset and attach them to the top of each switch to verify the correct layout. Once confirmed, insert swtiches thoughout the reset of the plate/PCB double checkkign that both pins for each switch go through the PCB and do not bend.
+
+image
 
 ## Soldering
 
+There are many comprehensive guides on soldering so we will skip any specific details in this section. Here is a [video](https://www.youtube.com/watch?v=cRJV1jo5vao) we think you might find helpful.
+
+After soldering all of your switches, now is another good time to test out your switches. Connect your PCB to the daughterboard and rest it inside the bottom of the case. Use your favrorite switch testing website and ensure that all of your switches are working.
+
+image
+
 ## Reassembly
-It is now time to start putting evertyhign
+
+It is now time to start putting everything back together. Ensure that the plate/PCB combo is seated into your iron180 correctly. There is a little bit of wiggle room and you can potentially misalign it before assembling so please make sure to double check before assembly. Once the top is aligned over the plate/base, keep a firm grip on the board and flip it over on a soft cloth face down. Attach the corresponding screws to the base (4 short in the front and 4 short or 4 long w/spacers in the back). Keep in mind that you will need to push down a bit for the first screw to catch, but will get easier as you add more screws.
+
+Note: We recommend attaching the screws in a criss-cross pattern to ensure even pressure and to minimize shifting. Start wit the top right, then bottom left, the top left, then top right. Repeast the same pattern for the inner four screws and follow up with one final tightening across all eight screws again to eunsure even compression.
+
+Not that your board is assembled, add your favorite keycaps and enjoy your iron 180!
+
+image

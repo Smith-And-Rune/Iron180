@@ -7,13 +7,13 @@ While this guide is meant to give Iron180 owners a comprehensive overview on how
 
 ## Table of contents
 
-* [Parts check and PCB](##parts-check-and-pcb)
-* [Dissasembly](##dissasembly)
-* [Gaskets and Daughterboard](##gaskets-and-daughterboard)
-* [Stabilizers and Layout](##stabilizers-and-layout)
-* [Switches](##switches)
-* [Soldering](##soldering)
-* [Reassembly](##reassembly)
+* [Parts check and PCB](#parts-check-and-pcb)
+* [Dissasembly](#dissasembly)
+* [Gaskets and Daughterboard](#gaskets-and-daughterboard)
+* [Stabilizers and Layout](#stabilizers-and-layout)
+* [Switches](#switches)
+* [Soldering](#soldering)
+* [Reassembly](#reassembly)
 
 ## Parts check and PCB
 
@@ -32,6 +32,7 @@ With the advances in modern technology it is very tempting/easy to skip this ste
 To test your board you will need a pair of metal tweezers and a USB-C cable. Ensure that your PCB is in an environments to minimize electrostatic discharge before proceeding and connect your PCB via the USB cable to a PC. While connected, please open a keyboard testing website (a few links below) and take your tweezer and touch the pair of pads corresponding to a key and check to see that the circuit completes and that it registers on the site. [Example video](https://www.youtube.com/watch?v=0Jp1X0hrAeM)
 
 Keyboard testing websites
+
 * [Keyboard Checker](https://keyboardchecker.com/)
 * [Keyboard Tester](https://www.keyboardtester.com/)
 

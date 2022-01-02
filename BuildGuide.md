@@ -19,6 +19,9 @@ While this guide is meant to give Iron180 owners a comprehensive overview on how
 
 Before you start building the iron 180, it is imporant to take a few precautionary steps. Before you take anything apart or start building, we recommend that you double check the [parts list](Iron180PartsList.md) to ensure that nothing is missing.
 
+You can also refer to the following photo as a parts reference thoughout the build.
+
+
 ### Screws
 
 There are multiple options when is comes to screws for the back of your Iron. There are duplicate sets for color preferences as well as short and long screws. The short screws are the standard option which will not be visible when tightened, whereas the longer option allow the screws to sit flush with the bottom of the board giving it a unique asthetic appeal.
@@ -42,11 +45,19 @@ Note: You will not see the function key light up via this method. You will need 
 
 ## Dissasembly
 
+Remove the board from the case and use the included cloth to lay the board face down on a flat surface. You will need to remove the eight hex screws from the back of the board and gently lift the base up and pull base out an angle towards the back of the board. 
+
+image
+
 ## Gaskets and Daughterboard
 
 Now that your board is finally diassabled, we will now focus on mounting the gaskets. We recommend you use a pair of tweerzers for this step, but you can get by with just using your hands. You will notice a slight recess on the inside of both the top and bottom of the 180 which we will use as a guide for gasket application. While removing adhesive protection and attaching gaskets to a board sounds trvial, we do have few tips for quality control.
 
-When appling the gasket, to not pull or add tension to the gasket during application. You want all of your gaskets to have an even feel across the plate while also allowing for compression, and the easiest way to do so is by slowly guiding the gasket into place over the length of the track. Also, ensure that the gasket is on the track itself and not pushed along the wall which may result inconsistent compression across the gasket.
+When appling the gasket, to not pull or add tension to the gasket during application. You want all of your gaskets to have an even feel across the plate while also allowing for compression, and the easiest way to do so is by slowly guiding the gasket into place over the length of the track by using tweezers to plant the inital gasket and using your finger follow the track/push down. Also, ensure that the gasket is on the track itself and not pushed along the wall which may result twisting/inconsistent compression across the gasket.
+
+image
+
+Proceed to attache all twelve gaskets to the top and bottom of the board and set the top board to the side until the end of the build. 
 
 Once your gaksets are at
 ## Stabilizers and Layout

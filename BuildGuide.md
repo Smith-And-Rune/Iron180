@@ -45,21 +45,32 @@ Note: You will not see the function key light up via this method. You will need 
 
 ## Dissasembly
 
-Remove the board from the case and use the included cloth to lay the board face down on a flat surface. You will need to remove the eight hex screws from the back of the board and gently lift the base up and pull base out an angle towards the back of the board. 
+Remove the board from the case and use the included cloth to lay the board face down on a flat surface. You will need to remove the eight hex screws from the back of the board and gently lift the base up and pull base out an angle towards the back of the board.
 
 image
 
-## Gaskets and Daughterboard
+## Gaskets, Bumpons, and Daughterboard
 
-Now that your board is finally diassabled, we will now focus on mounting the gaskets. We recommend you use a pair of tweerzers for this step, but you can get by with just using your hands. You will notice a slight recess on the inside of both the top and bottom of the 180 which we will use as a guide for gasket application. While removing adhesive protection and attaching gaskets to a board sounds trvial, we do have few tips for quality control.
+Since we are going to move halves of the boards around induvidually, it is now a good time to attache the bumpons. Remove a bumpon from the adhesive then to bottom of the base using one of the four circular matching indents as a guide. Repeat fo the other three bumpons.
+
+image
+
+Proceed the flip the board face up and grab the four smaller screws (part X), and attach the daughterboard to the case.
+
+Note: Do not overtighten the screws, turn them just enough to where it starts to give resistance and the daughterboard no longer jiggles. It is also easier if you attach one end of the cable to the daughterboad before screwing it in. If you happen to install the gaskets prior to installing the daughterboard, you should still be able to access the top screws without disturbing the gasket adhesive.
+
+image
+
+Once your bumpons and daughterboard are are attached, we will now focus on attaching the gaskets.
+
+We recommend you use a pair of tweerzers for this step, but you can get by with just using your hands. You will notice a slight recess on the inside of both the top and bottom of the 180 which we will use as a guide for gasket application. While removing adhesive protection and attaching gaskets to a board sounds trvial, we do have few tips for quality control.
 
 When appling the gasket, to not pull or add tension to the gasket during application. You want all of your gaskets to have an even feel across the plate while also allowing for compression, and the easiest way to do so is by slowly guiding the gasket into place over the length of the track by using tweezers to plant the inital gasket and using your finger follow the track/push down. Also, ensure that the gasket is on the track itself and not pushed along the wall which may result twisting/inconsistent compression across the gasket.
 
 image
 
-Proceed to attache all twelve gaskets to the top and bottom of the board and set the top board to the side until the end of the build. 
+Proceed to attach all twelve gaskets to the top and bottom of the board and set the top board to the side until the end of the build.
 
-Once your gaksets are at
 ## Stabilizers and Layout
 
 ## Switches

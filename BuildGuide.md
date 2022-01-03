@@ -31,7 +31,7 @@ Note: If you decide to use the longer screws (green underline), you will need to
 
 ### Checking your PCB
 
-With the advances in modern technology, it is very tempting/easy to skip this step, but we highly recommend that you take the time to test your PCB. Spending a few hours building your board only to find out after that something is wrong and you need to disassemble everything is going to be a wrong time. Unless you have the proper equipment to desolder, it will take you a lot longer to disassemble than reassemble.
+With the advances in modern technology, it is very tempting/easy to skip this step, but we highly recommend that you take the time to test your PCB. Spending a few hours building your board only to find out after that something is wrong and you need to disassemble everything is going to be a bad time. Unless you have the proper equipment to desolder, it will take you a lot longer to disassemble than reassemble.
 
 To test your board, you will need a pair of metal tweezers, the included PCB (connected to the daughterboard), and a USB-C cable. Ensure that your PCB is in an environment to minimize electrostatic discharge before proceeding and connect your PCB via the USB cable to a PC. While connected, please open a keyboard testing website (a few links below) and take your tweezer and touch the pair of pads corresponding to a key and check to see that the circuit completes and that it registers on the site. [Example video](https://www.youtube.com/watch?v=0Jp1X0hrAeM)
 
@@ -77,7 +77,9 @@ Proceed to attach all twelve gaskets (yellow underline parts) to the top and bot
 
 ## Stabilizers and Layout
 
-Now is the time to plan the layout of your 180. Please use the [interest check](https://geekhack.org/index.php?topic=105245.0) to see what options are available. There are lots of guides/variations available on how to modify/attach/lube spacebars, but we will be using the electrical tape mod (variation of the band-aid mod)for this guide.
+Now is the time to plan the layout of your 180. Please use the image below to see what options are available. There are lots of guides/variations available on how to modify/attach/lube spacebars, but we will be using the electrical tape mod (variation of the band-aid mod)for this guide.
+
+![layout](Photos/Iron180Photos/layout.png)
 
 Using a roll of electrical tape, cut out tiny rectangles so that they fit in between the stabilizer mounting points on the top of the PCB. After they have been all attached, spread a thin layer of dielectric grease to each of the rectangles. Proceed to attach all of your lubed stabilizers.
 

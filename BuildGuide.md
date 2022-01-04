@@ -17,7 +17,7 @@ While this guide is meant to give Iron180 owners a comprehensive overview of how
 
 ## Parts check and PCB
 
-Before building the iron 180, it is important to take a few precautionary steps. Before you take anything apart or start building, we recommend that you double-check the [parts list](Iron180PartsList.md) to ensure that nothing is missing.
+Before building the Iron180, it is important to take a few precautionary steps. Before you take anything apart or start building, we recommend that you double-check the [parts list](Iron180PartsList.md) to ensure that nothing is missing.
 
 You can also refer to the following photo as a color-coded to part list throughout the build.
 
@@ -118,12 +118,12 @@ After soldering all of your switches, now is another good time to test out your 
 
 ## Reassembly
 
-It is now time to start putting everything back together. Ensure that the plate/PCB combo is seated into your iron180 correctly. There is a little bit of wiggle room, and you can potentially misalign it before assembling, so please make sure to double-check before assembly. Once the top is aligned over the plate/base, keep a firm grip on the board and flip it over on a soft cloth face down. Attach the corresponding screws to the base (4 short in the front (pink underline parts) and four short or four long w/spacers (pink or green underline in parts) in the back). Keep in mind that you will need to push down a bit for the first screw to catch, but it will get easier as you add more screws.
+It is now time to start putting everything back together. Ensure that the plate/PCB combo is seated into your Iron180 correctly. There is a little bit of wiggle room, and you can potentially misalign it before assembling, so please make sure to double-check before assembly. Once the top is aligned over the plate/base, keep a firm grip on the board and flip it over on a soft cloth face down. Attach the corresponding screws to the base (4 short in the front (pink underline parts) and four short or four long w/spacers (pink or green underline in parts) in the back). Keep in mind that you will need to push down a bit for the first screw to catch, but it will get easier as you add more screws.
 
 Note: *We recommend attaching the screws in a criss-cross pattern to ensure even pressure and to minimize shifting. Start with the top right, then bottom left, then top left, then top right. Repeat the same pattern for the inner four screws and follow up with one final tightening across all eight screws again to ensure even compression.*
 
 ![assembled](Photos/Iron180Photos/assembled.jpg)
 
-Now that your board is assembled, add your favorite keycaps and enjoy your iron 180!
+Now that your board is assembled, add your favorite keycaps and enjoy your Iron180!
 
 ![full_build](Photos/Iron180Photos/full_build.jpg)
